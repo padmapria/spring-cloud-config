@@ -1,2 +1,2 @@
 # spring-cloud-config
-Thanks to krishantha : https://github.com/krish/microservices-course-on-youtube
+Source and Thanks to krishantha : https://github.com/krish/microservices-course-on-youtube
